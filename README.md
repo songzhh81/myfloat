@@ -2,7 +2,7 @@
 
 ==========================================================
 
-1, Project Requirements
+## 1, Project Requirements
 
     Write a program to process a file.
 
@@ -19,7 +19,7 @@
 
 ===========================================================
 
-2, myfloat.py
+## 2, myfloat.py
 
     The program first check the number of parameters, and from which take out
     file_path. Then check whether the input file_path is readable, and if it's
@@ -48,7 +48,7 @@ Defects or TODO:
 
 ===========================================================
 
-2, Test, testfloat.py 
+## 3, Test, testfloat.py 
 
     The program testfloat.py is realized based on unittet. It's maybe better if
     realized based on mock.
